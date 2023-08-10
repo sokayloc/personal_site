@@ -24,5 +24,7 @@ body {
 }
 
 .nav_list {
+    display:inline-block;
+    text-transform: uppercase;
     text-align: left;
 }
