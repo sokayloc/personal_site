@@ -3,6 +3,10 @@ ul,ol {
     list-style:inside
 }
 
+.container {
+    margin: 2rem
+}
+
 body {
     background: #10122c;
     color: white;
