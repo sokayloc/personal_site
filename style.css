@@ -12,7 +12,7 @@ body {
     color: white;
     line-height: 1.5;
 }
-nav_logo {
+.nav_logo {
     margin-left: 10px;
 
 }
@@ -40,5 +40,23 @@ nav_logo {
     margin: 20px;  
     padding: 20;
     text-align: center;
-    list-style:armenian;    
+    list-style:armenian; 
+    border-width: 2px;
+    border: white;
+    border-radius: 3px;   
+}
+.form {
+    border-width: 2px;
+    border: white;
+    border-radius: 3px;
+    display: flex;
+    text-align: left;
+    
+}
+.nameinfo {
+    display:flex;
+    
+}
+.formfinish {
+    text-align: left;
 }
