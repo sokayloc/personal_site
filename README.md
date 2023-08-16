@@ -12,3 +12,7 @@ Includes files:
     - Previous work & portfolio
  - javascript.js
  - style.css
+ - contact.html
+   - Send email to page owner using email and a message box
+ - message_submit.html
+   - message submit confirmation from contact.html
